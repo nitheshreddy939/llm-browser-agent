@@ -1,4 +1,4 @@
-# Agentic Web Search Service
+# LLM Browser Agent
 
 **Python · LangGraph · Playwright · FastAPI · Azure · LangSmith**
 Mar 2026 – Aug 2026

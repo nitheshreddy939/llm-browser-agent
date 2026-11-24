@@ -1,3 +1,3 @@
-"""Agentic Web Search Service."""
+"""LLM Browser Agent."""
 
 __version__ = "1.0.0"

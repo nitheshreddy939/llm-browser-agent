@@ -18,7 +18,7 @@ from ..agent.graph import run_agent
 from ..agent.types import Task
 from ..demo_pages import SCENARIOS, page
 
-app = FastAPI(title="Agentic Web Search Service", version="1.0.0")
+app = FastAPI(title="LLM Browser Agent", version="1.0.0")
 
 
 @app.get("/health")
